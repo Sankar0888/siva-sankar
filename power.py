@@ -1,0 +1,11 @@
+num1=input("enter frist number:")
+num2=input("enter second number:")
+sum= float(num1)+float(num2)
+min=float(num1)-float(num2)
+mul=float(num1)*float(num2)
+div=float(num1)/float(num2)
+print("the sum of num1 and num2",sum)
+print("the subtraction of num1 and num2",min)
+print("the multiplication of num1 and num2",mul)
+print("the division of num1 and num2",div)
+
